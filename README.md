@@ -2,8 +2,6 @@
 
 ![poker face](poker-face.gif)
 
-## Poker Hands
-
 Given a list of poker hands, return a list containing the highest scoring hand.
 
 If two or more hands tie, return the list of tied hands in the order they were received.
