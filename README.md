@@ -1,4 +1,8 @@
-# Poker Hands
+# Poker Face
+
+![poker face](poker-face.gif)
+
+## Poker Hands
 
 Given a list of poker hands, return a list containing the highest scoring hand.
 
